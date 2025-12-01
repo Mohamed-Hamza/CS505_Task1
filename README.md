@@ -1,2 +1,2 @@
 # OrdersLinkedList
-C++ project implementing a linked list. CS504 assignment (Task1)
+C++ project implementing a linked list. CS505 assignment (Task1)
